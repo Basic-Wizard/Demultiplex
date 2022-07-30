@@ -35,6 +35,9 @@
                                     if key is not in the dictionary, add it and set equal to 1
                             -No --> unmatched file, increment unmatched counter  
 ```
+``` 
+    This looks good, I can't see any flaws in it, I'd suggest checking both indexes simultainiously: if index 1 and rc index 2 in indexes...
+```
 5. High level functions. For each function, be sure to include:
     1. Description/doc string
         -Reverse complement function:
